@@ -27,6 +27,12 @@
 {
     background-image: linear-gradient();
 }
+.cat1, .cat2, .cat3
+{
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+
 .cat1
 {
     background-color: orange;
@@ -38,4 +44,29 @@
 .cat3
 {
     background-color: cyan;
+}
+.categories h1
+{
+    color: #fff;
+
+}
+.categories img{
+    width: 100px;
+}
+.card
+{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe
+{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer
+{
+    text-align: center;
+    padding-bottom: 15px;
 }
